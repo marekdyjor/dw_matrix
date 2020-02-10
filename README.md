@@ -1,2 +1,1 @@
-# dw_matrix
-projekt transformacja - ...
+# Project transformation, Matrix know the rule
